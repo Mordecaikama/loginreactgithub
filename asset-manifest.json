@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loginreactgithub/static/css/main.77fa9393.css",
+    "main.js": "/loginreactgithub/static/js/main.1734bb03.js",
+    "index.html": "/loginreactgithub/index.html",
+    "main.77fa9393.css.map": "/loginreactgithub/static/css/main.77fa9393.css.map",
+    "main.1734bb03.js.map": "/loginreactgithub/static/js/main.1734bb03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77fa9393.css",
+    "static/js/main.1734bb03.js"
+  ]
+}
